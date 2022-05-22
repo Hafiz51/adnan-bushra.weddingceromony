@@ -428,7 +428,7 @@
 .jssora051.jssora051ds {opacity:.3;pointer-events:none;}
 
 .main-slider {
-    background-image: url("../img/home_page/slider-bg.jpg");
+    background-color: white;
     background-size: cover;
     padding: 20px 0 20px 0;
 }
